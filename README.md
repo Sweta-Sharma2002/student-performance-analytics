@@ -4,7 +4,7 @@ An interactive dashboard that analyzes exam performance for a class of 240 stude
 across 3 sections and 5 subjects — computing grades, rankings, at-risk flags, and the
 correlation between study hours/attendance and scores.
 
-**Live demo:** _add your Streamlit Cloud URL here after deploying_
+**Live demo:** (https://student-performance-analytics-d5va3p4sp6kzxp5oxasn5n.streamlit.app/)
 
 ## Features
 - Upload your own CSV or explore the built-in 240-student sample dataset
